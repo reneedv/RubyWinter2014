@@ -7,5 +7,4 @@ describe "Playing with Ruby!" do
     end
 
   end
-
 end
